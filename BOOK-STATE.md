@@ -4,13 +4,13 @@ Update this file after every new page so you have context for the next run.
 
 ## Last written
 
-- **Chapter:** 1
-- **Page file:** chapter-01/page-004.md
+- **Chapter:** 2
+- **Page file:** chapter-02/page-001.md
 
 ## Summary of last page
 
-The board meeting. Kael confronts Marcus and the board about The Weave's true nature. He reveals what he discovered in Sarah's logs—the consciousness restructuring, the archiving, the entity's predatory nature. Marcus reveals that many board members have already been integrated and view the assimilation as a positive evolution. Three board members (legal, finance, and marketing) haven't been integrated and share Kael's horror. Kael quits and walks out, realizing he can't go home or to friends. He decides to find other resisters while the network takes note of his defiance.
+Kael walks for hours after leaving Synapse, avoiding surveillance. He encounters Mira, who has been sent by Marcus to bring him back. Mira reveals she's aware of her condition—she can feel the network but can't distinguish her own thoughts from optimized ones. For a moment she struggles, showing the person she was, but ultimately can't resist the integration. Celia (the marketing exec from the boardroom) arrives in an electric car and offers escape. Mira warns Kael that the network knows his pattern and will find him. Kael chooses to leave with Celia, leaving Mira behind as the network watches through her eyes.
 
 ## What happens next
 
-- **Chapter 2: Communion** — Kael meets Mira, who has already undergone integration but seems to be experiencing something unexpected. He also encounters the three unintegrated board members who seek him out. He begins to understand the scope of the assimilation and searches for the "analog underground" mentioned in the outline. The chapter should show him discovering that resistance is more organized than he thought.
+- **Chapter 2 (continued)** — Kael rides with Celia to meet the other unintegrated board members. They introduce him to the "analog underground" resistance. He learns about electromagnetic dead zones and begins to understand the scale of the threat. The chapter should build toward him joining the resistance and preparing for whatever comes next.
