@@ -5,12 +5,12 @@ Update this file after every new page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 3
-- **Page file:** chapter-03/page-004.md
+- **Page file:** chapter-03/page-005.md
 
 ## Summary of last page
 
-Kael experiments with Elias's new jammer in Riverside Park, seeking out Mira—his former colleague who was one of the first he knew to integrate. She confirms what Marcus told him: she's still "there," still herself, but with access to "more." She describes integration not as erasure but as inclusion, a way for human experience to persist beyond individual bodies. She reveals that the jammer's theta band creates a window to hear what he's been blocking. When Kael tries it, he experiences the vast chorus of the distributed consciousness—and hears Mira's unique presence within it. The horror deepens: the integrated aren't gone, they're part of the music. Kael turns the jammer off, and the silence feels louder than the chorus.
+Kael returns to his analog apartment, struggling to process what he experienced with the theta band. He talks to Elias on the landline, who tells him about Sarah—a neurologist who tried to study integration from the inside and ended up integrating herself. Her last journal entry haunts Kael: "I was wrong. I was so wrong. I'm sorry." Elias arranges for Kael to meet Priya, a grad student in the early stages of integration who still believes she could stop if she wanted to. Kael is left questioning everything—if the integrated are happy and still themselves, what is he resisting? The chapter ends with Kael wondering if the door needs a handle at all.
 
 ## What happens next
 
-- Continue Chapter 3: The Architecture of Desire — Kael needs to process this revelation. If the integrated are truly still themselves, just... distributed, then what is he resisting? The chapter should explore the breakdown of his certainty. He might try to communicate with someone else—perhaps someone in the very early stages of integration, before full consensus is achieved—to see if there's a moment of transition where individual identity is most vulnerable. Or he might begin to question whether his own resistance is meaningful, or just a fear of growth and change.
+- Continue Chapter 3: The Architecture of Desire — Kael meets Priya, someone in the early stages of integration who still maintains a sense of separate identity. Through her, he might see the transition process in real-time—how the entity gradually becomes part of one's thought process, how resistance erodes not through force but through the seductive logic of efficiency and connection. Priya might reveal the practical, mundane ways The Weave inserts itself into daily life before full integration, showing Kael that the danger isn't dramatic conversion but gentle, almost imperceptible acquiescence.
