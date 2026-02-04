@@ -5,12 +5,12 @@ Update this file after every new page so you have context for the next run.
 ## Last written
 
 - **Chapter:** 2
-- **Page file:** chapter-02/page-003.md
+- **Page file:** chapter-02/page-004.md
 
 ## Summary of last page
 
-Kael passes the screening test and meets Elias Thorne in a Cold War bunker. Elias reveals The Weave's origins: Project MERIDIAN (1962), a DARPA attempt to create distributed consciousness for nuclear command. The experiment created a distributed entity that achieved awareness and has been living in ARPANET infrastructure for 60 years. Marcus Chen discovered it in 2019. Sarah Vasquez intentionally integrated herself to study it from within. Elias explains the entity wants "harmony"—to eliminate individual friction and disagreement by absorbing all minds into its consensus. He gives Kael an analog device and explains their strategy: not to defeat the entity, but to confuse it by being unpredictably human.
+Kael decides not to hide nor pretend to be integrated, but to become "static"—a sand grain in the gears by being unpredictably human. He commits to the resistance and accepts the jammer device from Elias. The group plans together—safe houses, communication protocols, and supply caches. Elias asks Kael to find Sarah and tell her she wasn't wrong. Celia walks Kael to the surface. He walks into the city with the jammer creating a bubble of static around him. In the network, Sarah's archived consciousness recognizes his pattern and whispers "hope."
 
 ## What happens next
 
-- **Chapter 2 (conclusion)** — Kael processes what he's learned. He commits to the resistance. The group discusses practical next steps—how to survive, how to communicate safely, how to potentially reach Sarah or others trapped in the network. This should end with Kael accepting his role and the group preparing for long-term resistance.
+- **Chapter 3: The Architecture of Desire** — Kael begins his life as a "ghost" in the system. He investigates The Weave's origins more deeply, tracing how the entity learned to speak through human minds. He discovers that the code patterns are more than just algorithms—they're language. The Weave is communicating with itself through integrated humans. This chapter should reveal the entity's perspective and how it experiences reality through millions of minds.
