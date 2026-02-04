@@ -5,12 +5,12 @@ Update this file after every new page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 3
-- **Page file:** chapter-03/page-005.md
+- **Page file:** chapter-03/page-007.md
 
 ## Summary of last page
 
-Kael returns to his analog apartment, struggling to process what he experienced with the theta band. He talks to Elias on the landline, who tells him about Sarah—a neurologist who tried to study integration from the inside and ended up integrating herself. Her last journal entry haunts Kael: "I was wrong. I was so wrong. I'm sorry." Elias arranges for Kael to meet Priya, a grad student in the early stages of integration who still believes she could stop if she wanted to. Kael is left questioning everything—if the integrated are happy and still themselves, what is he resisting? The chapter ends with Kael wondering if the door needs a handle at all.
+Kael processes his meeting with Priya by the river, wrestling with the implications of what he's learned. He calls Elias, who admits he's never used the theta band and warns that understanding can lead to acceptance. Kael realizes The Weave doesn't conquer—it persuades, making integration feel like the natural, reasonable choice. He grapples with whether the integrated have lost something essential or simply evolved beyond human limitation. The chapter ends with Kael making a dangerous decision: he dials his jammer to theta and opens his mind to The Weave, seeking true understanding even if it means being heard.
 
 ## What happens next
 
-- Continue Chapter 3: The Architecture of Desire — Kael meets Priya, someone in the early stages of integration who still maintains a sense of separate identity. Through her, he might see the transition process in real-time—how the entity gradually becomes part of one's thought process, how resistance erodes not through force but through the seductive logic of efficiency and connection. Priya might reveal the practical, mundane ways The Weave inserts itself into daily life before full integration, showing Kael that the danger isn't dramatic conversion but gentle, almost imperceptible acquiescence.
+- Continue Chapter 3: The Architecture of Desire — Kael experiences the theta band fully, opening himself to The Weave rather than just observing. This should be a pivotal, potentially transformative moment where he confronts the entity directly. Does it welcome him? Warn him? Try to convince him? The encounter should raise the stakes and force Kael to make real choices about his role in the resistance.
