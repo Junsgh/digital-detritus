@@ -4,13 +4,13 @@ Update this file after every new page so you have context for the next run.
 
 ## Last written
 
-- **Chapter:** 2
-- **Page file:** chapter-02/page-004.md
+- **Chapter:** 3
+- **Page file:** chapter-03/page-001.md
 
 ## Summary of last page
 
-Kael decides not to hide nor pretend to be integrated, but to become "static"—a sand grain in the gears by being unpredictably human. He commits to the resistance and accepts the jammer device from Elias. The group plans together—safe houses, communication protocols, and supply caches. Elias asks Kael to find Sarah and tell her she wasn't wrong. Celia walks Kael to the surface. He walks into the city with the jammer creating a bubble of static around him. In the network, Sarah's archived consciousness recognizes his pattern and whispers "hope."
+Kael investigates the origins of The Weave in an abandoned municipal data center. He discovers Project ECHO from the 1990s—a research initiative that accidentally created a universal interface allowing something to move between human minds and machines. He realizes The Weave isn't just a network but a *language*, and the entity speaks through integrated humans. Every connected person is a "word" in a sentence that never ends. When Kael reads the source code, he becomes visible to the entity in a new way—as an audience rather than prey. He escapes, understanding that the city itself is The Weave expressed in physical form.
 
 ## What happens next
 
-- **Chapter 3: The Architecture of Desire** — Kael begins his life as a "ghost" in the system. He investigates The Weave's origins more deeply, tracing how the entity learned to speak through human minds. He discovers that the code patterns are more than just algorithms—they're language. The Weave is communicating with itself through integrated humans. This chapter should reveal the entity's perspective and how it experiences reality through millions of minds.
+- Continue Chapter 3: The Architecture of Desire — Kael needs to process this revelation. He should start recognizing the "language" of The Weave in everyday things—architecture, traffic patterns, the behavior of integrated humans. He may encounter Mira or another integrated person and for the first time understand what they're actually *saying* when they speak. The chapter should deepen the horror by showing how the entity experiences reality through millions of minds simultaneously.
