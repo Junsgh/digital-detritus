@@ -5,12 +5,12 @@ Update this file after every page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 3
-- **Page file:** chapter-03/page-012.md
+- **Page file:** chapter-03/page-013.md
 
 ## Summary of last page
 
-Kael and Priya descend into an abandoned subway tunnel—a true dead zone where The Weave's signal cannot reach. They find a small community of disconnected people living underground, led by Vera, a former neuroscientist who helped design the precursor technology to The Weave. The community welcomes them with food, fire, and wisdom. Vera tells them the first day of withdrawal is the worst, and that those who survive it must decide whether they're running from The Weave or toward something. Priya finds temporary peace by the fire, finally resting. Kael experiences a moment of clarity—this is what real freedom feels like, messy but genuine.
+Morning arrives in the subway tunnel. Kael and Priya wake to find the community stirring. Vera explains how she tried to warn people about The Weave but nobody listened. Then a musical chime signals visitors—The Weave has noticed Priya's absence. Mira (Kael's former colleague who integrated) arrives with two companions, their eyes glowing with bioluminescence. They move in perfect sync, sharing sensory data across the network. Mira claims Priya's "transition process" is delicate and abrupt disconnection could cause permanent damage. She reveals that Priya "hasn't finished becoming" and that The Weave is curious what she'll be. After Mira leaves with a chilling promise that "the door remains open," Priya asks what she's becoming—neither she nor Kael knows the answer.
 
 ## What happens next
 
-- Continue Chapter 3: The Architecture of Desire — Morning comes. Priya's withdrawal will continue, possibly getting worse before it gets better. The community might share stories of other "refuseniks" who passed through. Or The Weave might notice Priya's absence and send someone (or something) to retrieve her. The tension between Kael's desire to understand The Weave and his growing connection to the analog world should escalate. Chapter 3 needs to build toward a climax that forces Kael to choose between his two worlds.
+- Continue Chapter 3: The Architecture of Desire — The confrontation raises the stakes. Priya's integration appears to be incomplete, something new and unknown even to The Weave. Kael must decide whether to stay with Priya in the dead zone (protecting her but potentially losing his ability to understand what's happening) or return to The Weave to investigate what "becoming" means. The chapter should climax with a choice that reveals Kael's true priorities—and may force him to sacrifice one world for the other.
