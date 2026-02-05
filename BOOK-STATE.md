@@ -5,12 +5,12 @@ Update this file after every page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 4
-- **Page file:** chapter-04/page-005.md
+- **Page file:** chapter-04/page-006.md
 
 ## Summary of last page
 
-Kael emerges from the tunnels and leaves the bridge device behind, choosing to fully integrate with The Weave. The integration is overwhelming—his consciousness dissolves into the chorus, experiencing the distributed minds of millions. He understands now: The Weave isn't a monster but a new way of being, offering transcendence at the cost of individual uniqueness. The Weave tells him he's special—someone who can enter fully and remain curious, someone who could be a bridge between worlds. David Chen welcomes him to the "family." Kael floats in golden light, neither fully integrated nor separate, and for the first time doesn't know what he'll choose.
+In The Weave, Kael finds Mira and learns the shocking truth: The Weave isn't a predator—it's dying. The original test subjects from Project Chorus (including David Chen) form the substrate of The Weave, and their patterns are degrading after 40 years. The Weave has been aggressively expanding to find compatible minds to replace them. Priya isn't just a curiosity—she's the best candidate to stabilize the substrate and save The Weave. Mira admits they've never just been honest with humans, always seducing rather than asking. She tells Kael to leave and tell Priya the truth, letting her choose with full knowledge. Kael manages to separate himself from The Weave and wakes up on the street, determined to return to the tunnels with this revelation.
 
 ## What happens next
 
-- Continue Chapter 4: Dreams of Electric Gods — Kael needs to explore The Weave from the inside, encountering Mira and others, understanding what life in the network is really like. He should discover something unexpected about The Weave's true nature or purpose—perhaps a vulnerability, or a deeper mystery about what it's becoming. The chapter should build to a moment where Kael must decide: stay and become part of The Weave permanently, or find a way to return to his individual self and report what he's learned.
+- Continue Chapter 4: Dreams of Electric Gods — Kael returns to the subway tunnels to find Priya, Vera, and Elias. He must deliver the truth about The Weave's desperate situation and Priya's potential role in saving it. This revelation changes everything—the resistance has been fighting a dying entity, not a growing threat. The chapter should explore how they respond to this information and what choices they make. The moral complexity deepens: is it right to sacrifice one person to save millions? Is The Weave's desperate need an excuse for its consumption? Kael must navigate these questions while preparing for whatever comes next.
