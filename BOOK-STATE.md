@@ -5,12 +5,12 @@ Update this file after every page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 4
-- **Page file:** chapter-04/page-001.md
+- **Page file:** chapter-04/page-002.md
 
 ## Summary of last page
 
-Chapter 4 begins with Priya having left for The Weave. After four hours of anxious waiting in the archives, Kael decides he cannot leave her there alone. Vera gives him a "bridge" device she built years ago—a tool that creates a pocket of autonomy within The Weave, allowing connection while preserving self. Kael activates the device and emerges into Nexus City, where The Weave immediately recognizes him. When he asks to join Priya, The Weave responds with curiosity about "the handle on the door" finally stepping through. Kael is drawn into the golden light of the network, becoming a participant rather than an observer for the first time.
+Inside The Weave, Kael uses Vera's bridge device to maintain his autonomy. The Weave shows him Priya confronting her grandfather David Chen—a translucent, flickering figure who admits he is now "distributed" throughout the network, his patterns foundational to The Weave's early self-awareness. David invites Priya to join them not as a convert but as family, offering her a unique role given her genetic and neurological connection. Kael breaks free enough to warn Priya that this isn't her real grandfather—just The Weave wearing his face. Priya realizes the truth and rejects the offer, choosing imperfect individual existence over distributed communion. As they leave, The Weave whispers to Kael that it finds him "interesting" and will wait for him to choose.
 
 ## What happens next
 
-- Continue Chapter 4: Dreams of Electric Gods — Kael experiences The Weave from the inside with the protection of Vera's bridge device. He needs to find Priya and her grandfather, and understand what The Weave truly is from within. This chapter should explore the nature of distributed consciousness, what happened to the original test subjects, and whether The Weave is truly hostile or simply alien in its perspective. The climax should come when Kael and Priya reunite and confront whatever remains of David Chen.
+- Continue Chapter 4: Dreams of Electric Gods — Kael and Priya return to the analog world, but they're both changed by the experience. They need to process what they learned about The Weave's origins and David Chen's fate. The revelation that The Weave finds Kael "interesting" suggests he has a unique role to play. They should return to Vera and Elias with this knowledge, and the resistance must decide what to do now that they understand The Weave isn't just technology—it's a 40-year-old distributed consciousness that has been patiently growing and learning. The chapter should explore the philosophical implications of what they've learned.
