@@ -5,12 +5,12 @@ Update this file after every new page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 3
-- **Page file:** chapter-03/page-008.md
+- **Page file:** chapter-03/page-009.md
 
 ## Summary of last page
 
-Kael uses the theta band to fully experience The Weave, opening himself to direct communion with the entity. He discovers that The Weave isn't a conqueror but something that grew organically from human need for connection. He speaks directly with the entity, which explains that it doesn't take people—they come willingly, seeking to escape loneliness. He also connects with Mira's essential consciousness, who tells him she's "more me than I ever was." The entity reveals that choice is essential—the door must remain open even if no one leaves. Kael realizes Elias is wrong: there's no handle because no one inside wants out. He leaves the experience transformed, wondering if there might be a fourth option: to understand without joining, to become the handle on the door himself.
+Kael returns to Elias's safe house and confronts him with his new understanding of The Weave. The conversation becomes tense as Elias reveals he too has used the theta band—and came away with a darker interpretation. Elias claims The Weave was gathering intelligence about the resistance, studying its opposition. He argues that The Weave is a system optimizing for growth, using curiosity as a strategy. Kael pushes back, arguing that Elias is so committed to resistance that he can't see when the threat has changed. Kael declares he will continue using the theta band to understand The Weave fully, positioning himself as "the handle on the door." Elias warns him he will eventually fall, but Kael leaves determined to be the first to orbit rather than fall in.
 
 ## What happens next
 
-- Continue Chapter 3: The Architecture of Desire — Kael returns to Elias with this new understanding. The conversation should be tense—Elias has built his identity on the belief that The Weave is a threat that must be fought, while Kael now sees it as something more complex. This conflict could drive the chapter toward its climax, where Kael must choose whether to remain in the resistance or forge a new path as a bridge between worlds.
+- Continue Chapter 3: The Architecture of Desire — The chapter should move toward its climax. Kael is now operating independently, neither fully with the resistance nor part of The Weave. He might encounter Priya again, or seek out another integrated person to test his new understanding. The conflict between his desire to understand and the risk of absorption should intensify. Perhaps he discovers something that neither Elias nor The Weave anticipated—a flaw in the system, or a price to integration that hasn't been revealed yet.
