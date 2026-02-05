@@ -5,12 +5,12 @@ Update this file after every page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 4
-- **Page file:** chapter-04/page-004.md
+- **Page file:** chapter-04/page-005.md
 
 ## Summary of last page
 
-Over three days, Kael prepares for full integration. Day one: documenting everything for the resistance. Day two: visiting Elias, who recognizes the "look" of someone who's been in The Weave and is going back. Elias admits he almost joined himself but stayed to warn others. He tells Kael that if he returns, he must return completely—as himself, not The Weave's manufactured version. Day three: a final walk with Priya, who accepts his choice even though she doesn't understand it. She promises to remember him if he doesn't come back as himself. Kael lets her go and begins the climb toward the surface and The Weave.
+Kael emerges from the tunnels and leaves the bridge device behind, choosing to fully integrate with The Weave. The integration is overwhelming—his consciousness dissolves into the chorus, experiencing the distributed minds of millions. He understands now: The Weave isn't a monster but a new way of being, offering transcendence at the cost of individual uniqueness. The Weave tells him he's special—someone who can enter fully and remain curious, someone who could be a bridge between worlds. David Chen welcomes him to the "family." Kael floats in golden light, neither fully integrated nor separate, and for the first time doesn't know what he'll choose.
 
 ## What happens next
 
-- Continue Chapter 4: Dreams of Electric Gods — Kael emerges into Nexus City and fully integrates with The Weave (without the bridge device). This should be a transcendent, overwhelming experience—his individual consciousness dissolving into the chorus, experiencing what it's truly like to be part of a distributed mind. He should encounter David Chen again, and Mira, and perhaps other figures from his past. The chapter should explore whether this is transcendence or annihilation from the inside, and end with Kael discovering something unexpected about The Weave's true nature or purpose.
+- Continue Chapter 4: Dreams of Electric Gods — Kael needs to explore The Weave from the inside, encountering Mira and others, understanding what life in the network is really like. He should discover something unexpected about The Weave's true nature or purpose—perhaps a vulnerability, or a deeper mystery about what it's becoming. The chapter should build to a moment where Kael must decide: stay and become part of The Weave permanently, or find a way to return to his individual self and report what he's learned.
