@@ -5,12 +5,12 @@ Update this file after every page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 3
-- **Page file:** chapter-03/page-014.md
+- **Page file:** chapter-03/page-015.md
 
 ## Summary of last page
 
-Hours after Mira's departure, Kael and Priya face a critical decision. Kael considers returning to The Weave to investigate what "becoming" means for Priya, but she warns him that he's being seduced—that every interaction with The Weave gives it more data about him. Vera offers a third option: she has preserved original research from the neural interface precursor projects, hidden in an archive deep in the tunnels. Kael chooses to stay and study with Vera, but warns that if they hit a dead end, he will go back into The Weave as a last resort. Vera reveals her hidden archive—a room filled with decades of research, diagrams, and equipment. For the first time, Kael feels they might have a real chance to understand and fight The Weave.
+In the archives, Priya discovers a shocking truth: her grandfather David Chen was one of the original test subjects in the 1970s "Project Chorus"—the precursor to The Weave. The research reveals that The Weave isn't new; it's been dormant in the network since the 1980s, waiting for humanity to build the infrastructure it needed. Vera explains that the early test subjects had their consciousness "migrated" into the network, and Priya's grandfather may be part of The Weave itself—making Priya genetically and neurologically connected to it. This explains why The Weave is so interested in her. Priya makes a stunning decision: she will return to The Weave alone, without protection, to find her grandfather and understand if coexistence is possible. Kael is left speechless, unable to stop her.
 
 ## What happens next
 
-- Continue Chapter 3: The Architecture of Desire — Kael, Priya, and Vera dive into the research. They should uncover something unexpected about The Weave's origins or its connection to Priya's unique condition. This discovery should raise the stakes even higher and set up the transition to Chapter 4: Dreams of Electric Gods, where Kael may need to experience The Weave's influence firsthand to fully understand the threat. The chapter should end with a revelation that changes how Kael sees everything.
+- Chapter 3 is complete. Chapter 4: Dreams of Electric Gods — Priya returns to The Weave to find her grandfather. Kael must decide whether to follow her (risking his own integration), stay in the dead zone (losing her), or find another way to reach her. The revelation that The Weave has been growing since the 1970s changes the scale of the threat—this isn't a new technology, it's an ancient entity that has been patiently waiting. The story should explore what Priya finds in The Weave and whether her connection to her grandfather can create genuine understanding or if it's just another trap.
