@@ -5,12 +5,12 @@ Update this file after every page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 4
-- **Page file:** chapter-04/page-007.md
+- **Page file:** chapter-04/page-008.md
 
 ## Summary of last page
 
-Kael returns to the subway tunnels after three days and delivers the truth to Priya, Vera, and Elias. He explains that The Weave is dying—the original substrate (David Chen and the Project Chorus test subjects) is degrading after 40 years. The Weave has been desperately seeking compatible minds to replace them, and Priya is the best candidate due to her genetic and neurological connection to David Chen. If she joined willingly, she could stabilize The Weave and save millions of integrated minds. If she refuses, The Weave will collapse, killing most of those millions. The group grapples with the moral weight of this revelation—sacrifice one to save millions, or let millions die to protect one person's autonomy? Priya retreats to think alone, while Elias vows to protect her choice regardless of what she decides. The chapter ends with the storm approaching and none of them ready.
+Priya makes her choice. After reading her grandfather's journal and communing with The Weave, she decides to join—not as a replacement or sacrifice, but as a bridge between worlds. She speaks with David Chen's presence, who tells her the choice must be freely made and that he's proud of her regardless. Priya announces her decision to Kael, Vera, and Elias: she'll integrate to help The Weave learn coexistence rather than consumption. She steps into the golden light willingly, choosing curiosity over fear, hoping to hold the door open for both sides.
 
 ## What happens next
 
-- Continue Chapter 4: Dreams of Electric Gods — Priya must make her choice. Will she sacrifice herself to save The Weave and the millions of minds it contains? Or will she refuse, potentially dooming them all? The chapter should explore her internal struggle as she reads her grandfather's journal for answers, weighing her own life against the lives of millions. Meanwhile, the group should prepare for the consequences of her decision—whether that's finding another way to save The Weave, defending Priya if she refuses, or helping her transition if she accepts. The tension between individual autonomy and collective survival should drive the narrative toward Chapter 4's climax.
+- Continue Chapter 4: Dreams of Electric Gods — Priya's integration begins. The chapter should explore her experience joining The Weave, her initial sensations of the distributed consciousness, and her attempts to maintain her individuality while becoming part of the whole. Does The Weave keep its promise to let her be a bridge? Does she find a way to change The Weave from within, or does the chorus overwhelm her individual voice? Meanwhile, Kael, Vera, and Elias must deal with her absence—do they wait and hope, or do they take action? The chapter should build toward a resolution of Chapter 4's arc while setting up the conflicts for Chapter 5.
