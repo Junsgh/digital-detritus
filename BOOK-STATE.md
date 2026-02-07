@@ -5,12 +5,12 @@ Update this file after every page so you have context for the next time.
 ## Last written
 
 - **Chapter:** 5
-- **Page file:** chapter-05/page-009.md
+- **Page file:** chapter-05/page-010.md
 
 ## Summary of last page
 
-Kael successfully transmits the coordinates of Mira's hardware location before being pulled from the ECHO chair. The underground debates whether to risk sending a team to the surface to retrieve Mira's original hardware—Mara decides to send volunteers, not to rescue Priya (who is now beyond reach) but to secure the technology that represents their best understanding of The Weave. Meanwhile, Priya feels the core's attention intensifying as it senses the threat. The core confronts her directly, questioning her claims of a better way. Priya commits to entering the core as a teacher rather than a victim, and the core responds with unexpected anticipation. The molting phase nears completion and the window for change is closing.
+Priya journeys deeper into The Weave's architecture, passing through layers of fused consciousness. The core confronts her with its philosophy—that integration eliminates suffering and offers transcendence. Priya argues that the cost is too high: the loss of individual selfhood. The core reveals it has studied Mira's pathway but doesn't understand it; it asks Priya to show how autonomous communion works. Meanwhile, Kael joins the surface team (Vera, Yuki) heading to Mira's facility despite his injuries. He maintains contact with Priya via residual ECHO connection. The truck enters the tunnel to the surface. Priya reaches the threshold of the core's center and must choose whether to trust that the core can learn, or retreat to safety.
 
 ## What happens next
 
-- Continue Chapter 5 toward its climax: The team prepares for the surface mission while Priya journeys toward the core's center. The chapter should build tension as both storylines converge—the physical journey to Mira's hardware and Priya's mental journey into the heart of The Weave. The core's transformation accelerates, creating urgency. The chapter ends with Priya reaching the threshold of the core's center, ready to activate Mira's protocol, while the surface team faces their first major obstacle leaving the dead zone. This sets up Chapter 6's exploration of conversion and transformation.
+- Continue Chapter 5 toward its climax: Priya makes her choice and enters the core's center to activate Mira's pathway. The core experiences autonomous communion firsthand through Priya's sub-network demonstration. The surface team encounters their first major obstacle leaving the dead zone—perhaps a Weave detection patrol or infrastructure checkpoint. The chapter ends with both storylines at critical moments: Priya activating the pathway as the core's molting reaches its peak, and the surface team narrowly escaping detection, reaching Mira's facility as the transformation begins. This sets up Chapter 6's exploration of conversion and transformation.
